@@ -45,7 +45,9 @@ Developed as a practice project for honing web development skills
 REVİEW
 
 
-https://github.com/user-attachments/assets/525b4ab3-803c-4cad-8d7b-14d312a7112d
+
+
+https://github.com/user-attachments/assets/1b2e2997-e44c-4c09-a7c4-11c287b05eb2
 
 
 
